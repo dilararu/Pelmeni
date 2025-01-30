@@ -23,10 +23,10 @@ Her neyse, bu projeyi yapmamın arkasında birçok neden yatıyor.. Ama en önem
 
 ## ⬇️ İndir
 
-Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak için bazı uygulamara başvurmanız gerekebilir. Bilmiyorsanız Araçlar için [makale](Main/Harem/Tools.md) 
+Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak için bazı uygulamara başvurmanız gerekebilir. Ne dediğimi anlamıyorsanız [Araçlar için makale](Main/Harem/Tools.md) 
 
 
-- [Yayınlar](Main/Content.md)
+- Arşivi indirmek için [Tüm Yayınlara](Main/Content.md) göz at.
 
 - ~~Arşivi **[Telegram](Main/Messages/mal.md)** üzerinden indir.~~ (Şuanlık Yok)
 
