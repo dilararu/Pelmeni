@@ -6,3 +6,14 @@
 ### Sadece Kitap Arşivim
 
 </div>
+
+## 📃 Önsöz
+
+## 🧱 Bütünlük
+
+## ⬇️ İndir
+
+## 🐰 Planlama
+
+## 🌹 Teşekkürler
+
