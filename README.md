@@ -34,5 +34,14 @@ Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu d
 
 ## 🐰 Planlama
 
+- [ ] Düzenle
+- [ ] Yayınları Ekle
+- [ ] İş Bankasi
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+
+
 ## 🌹 Teşekkürler
 
