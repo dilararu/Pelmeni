@@ -23,6 +23,15 @@ Her neyse, bu projeyi yapmamın arkasında birçok neden yatıyor.. Ama en önem
 
 ## ⬇️ İndir
 
+Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak için bazı uygulamara başvurmanız gerekebilir. Bilmiyorsanız Araçlar için [makale](Main/Harem/Tools.md) 
+
+
+- [Yayınlar](Main/Content.md)
+
+- ~~Arşivi **[Telegram](Main/Messages/mal.md)** üzerinden indir.~~ (Şuanlık Yok)
+
+
+
 ## 🐰 Planlama
 
 ## 🌹 Teşekkürler
