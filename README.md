@@ -41,7 +41,8 @@ Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu d
         - [ ] Biyografiler Dizisi
         - [ ] Nehir Söyleşi Dizisi
         - [ ] Türk Edebiyatı Klasikleri
-    - [ ] Can Yayınları 
+    - [ ] Yapı Kredi Yayınları 
+    - [ ] Can Yayınları
     - [ ] İthaki Yayınları
     - [ ] April Yayınları
     - [ ] Doğan Kitap Yayınları
