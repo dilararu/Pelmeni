@@ -23,7 +23,7 @@ Her neyse, bu projeyi yapmamın arkasında birçok neden yatıyor.. Ama en önem
 
 ## ⬇️ İndir
 
-Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak için bazı uygulamara başvurmanız gerekebilir. Ne dediğimi anlamıyorsanız [Araçlar için makale](Main/Harem/Tools.md) 
+Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak ve okumak için bazı uygulamalara başvurmanız gerekebilir. Ne dediğimi anlamıyorsanız [Araçlar için makaleye](Main/Harem/Tools.md) bakınız.
 
 
 - Arşivi indirmek için [Tüm Yayınlara](Main/Content.md) göz at.
