@@ -57,6 +57,6 @@ Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu d
 
 ## 🌹 Teşekkürler
 
-Reddit sayesinde **"Markdown"** kullanmaya biraz aşinayım. Tabiki buradaki biraz daha detaylı olsa gerek - Alışmam biraz zor gözüktü. Fakat bana yardım edenler sayesinde aslında korktuğum şeyin ne kadar basit olduğunu görmüş oldum.. Bu süreçte başta "Kayra Özbek" ve diğer kişiler adına teşekkürlerimi sunarım. Minnettarım 💜
+Reddit sayesinde **Markdown** kullanmaya biraz aşinayım. Tabiki buradaki biraz daha detaylı olsa gerek - Alışmam biraz zor gözüktü. Fakat bana yardım edenler sayesinde aslında korktuğum şeyin ne kadar basit olduğunu görmüş oldum.. Bu süreçte başta **Kayra Özbek** ve diğer kişiler adına teşekkürlerimi sunarım. Minnettarım 💜
 
 
