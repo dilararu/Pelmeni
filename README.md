@@ -35,13 +35,13 @@ Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu d
 ## 🐰 Planlama
 
 - [ ] Yayınları tamamla
-    - [ ] İş Bankası Yayınları
-        - [ ] Hasan Ali Yücel Dizisi
-        - [ ] Modern Klasikler Dizisi
+    - [x] İş Bankası Yayınları
+        - [x] Hasan Ali Yücel Dizisi
+        - [x] Modern Klasikler Dizisi
         - [ ] Biyografiler Dizisi
         - [ ] Nehir Söyleşi Dizisi
         - [ ] Türk Edebiyatı Klasikleri
-    - [ ] Yapı Kredi Yayınları 
+    - [x] Yapı Kredi Yayınları 
     - [ ] Can Yayınları
     - [ ] İthaki Yayınları
     - [ ] April Yayınları
