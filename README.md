@@ -26,7 +26,7 @@ Her neyse, bu projeyi yapmamın arkasında birçok neden yatıyor.. Ama en önem
 Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu dosyayı çıkartmak ve okumak için bazı uygulamalara başvurmanız gerekebilir. Ne dediğimi anlamıyorsanız [Araçlar için makaleye](Main/Harem/Tools.md) bakınız.
 
 
-- Arşivi indirmek için [Tüm Yayınlara](Main/Content.md) göz at.
+- ***Arşivi indirmek için [Tüm Yayınlara](Main/Content.md) göz at.***
 
 - ~~Arşivi **[Telegram](Main/Messages/mal.md)** üzerinden indir.~~ (Şuanlık Yok)
 
