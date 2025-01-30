@@ -19,7 +19,7 @@ Her neyse, bu projeyi yapmamın arkasında birçok neden yatıyor.. Ama en önem
 ## 🧱 Bütünlük
 
 > [!CAUTION] 
-> Bağlantıların bazıları doğru çalışmıyor. (Düzenleme aşamasında)
+> Bağlantılar çalışmıyor.
 
 ## ⬇️ İndir
 
