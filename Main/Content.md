@@ -1,7 +1,14 @@
 <div align="center">
   
-## Yayınlar
+# Yayınlar
 
 </div>
 
+### İş Bankası Yayınları 
+
+- Hasan Ali Yücel Klasikleri Dizisi
+
+  
+
+### [Yapı Kredi Yayınları](Content/Sample-2.md)
 
