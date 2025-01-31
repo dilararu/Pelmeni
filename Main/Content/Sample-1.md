@@ -14,6 +14,8 @@
 
 #### Alternatif Bağlantılar
 - [Mega]()
-- [Mail.ru]()
+- Mail.ru
+  - [PDF](https://cloud.mail.ru/public/dCKC/unkvR5cEv)
+  - [EPUB](https://cloud.mail.ru/public/16yT/LJKiZsfGn)
 - [Mediafire]()
 - [Onedrive]()
