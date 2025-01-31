@@ -6,7 +6,7 @@
 
 ### İş Bankası Yayınları 
 
-- [Hasan Ali Yücel Klasikleri Dizisi]()
+- [Hasan Ali Yücel Klasikleri Dizisi](Content/Sample-1.md)
 - [Modern Klasikleri Dizisi]()
 - [Biyografiler Dizisi]()
 - [Nehir Söyleşi Dizisi]()
