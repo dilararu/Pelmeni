@@ -36,7 +36,7 @@ Yayınları *Sıkıştırılmış Dosya Formatında(ZIP)* indirebilirsiniz. Bu d
 
 - [ ] Yayınları tamamla
     - [x] İş Bankası Yayınları
-        - [x] Hasan Ali Yücel Dizisi
+        - [x] [Hasan Ali Yücel Dizisi](Main/Content/Sample-1.md)
         - [x] Modern Klasikler Dizisi
         - [ ] Biyografiler Dizisi
         - [ ] Nehir Söyleşi Dizisi
